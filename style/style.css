@@ -88,7 +88,7 @@ h2:hover {
         rgba(255, 255, 255, 0) 40%,
         hsl(275, 100%, 97%) 40%
       ),
-      url("/assets/images/background-pattern-desktop.svg");
+      url("./assets/images/background-pattern-desktop.svg");
   }
   .container {
     width: 400px;
