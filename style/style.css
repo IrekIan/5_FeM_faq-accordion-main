@@ -22,7 +22,7 @@ body {
       rgba(255, 255, 255, 0) 40%,
       hsl(275, 100%, 97%) 40%
     ),
-    url("/assets/images/background-pattern-mobile.svg");
+    url("./assets/images/background-pattern-mobile.svg");
 }
 .container {
   width: 320px;
