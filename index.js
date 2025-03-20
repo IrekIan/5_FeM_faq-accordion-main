@@ -8,9 +8,9 @@ document.addEventListener(`click`, function (e) {
       `img[data-index="${e.target.dataset.index}"]`
     );
     if (plusImg.src.includes("icon-plus.svg")) {
-      plusImg.src = "assets/images/icon-minus.svg";
+      plusImg.src = "./assets/images/icon-minus.svg";
     } else {
-      plusImg.src = "assets/images/icon-plus.svg";
+      plusImg.src = "./assets/images/icon-plus.svg";
     }
   }
 });
